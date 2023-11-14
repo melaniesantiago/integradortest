@@ -1,0 +1,3 @@
+#Repositorio de integrador
+[repo]()
+ dada una tablabade verdad de n bits generar la expresion  en booleana que genera de manera fidedigna las salidas de esta tabla 
