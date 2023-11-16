@@ -7,7 +7,7 @@
 ## bryan perez fuentes 
 
 ## diego salazar guerrero 
-https://github.com/diego2334577
+[Github de Diego](https://github.com/diego2334577)
 
 ## ricardo hernandez monrroy 
 
