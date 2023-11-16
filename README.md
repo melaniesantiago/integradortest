@@ -10,6 +10,6 @@
 
 ## ricardo hernandez monrroy 
 
-https://github.com/ricardohernandez21
+[Github de ricardo](https://github.com/ricardohernandez21)
 
 ## dulce marina cruz granados
