@@ -4,7 +4,9 @@
 
 ## melanie santiago  resendiz 
 
-## https://github.com/bryanfpp
+## bryan fuentes perez
+
+https://github.com/bryanfpp
 
 ## diego salazar guerrero 
 
