@@ -6,7 +6,7 @@
 
 ## bryan fuentes perez
 
-https://github.com/bryanfpp
+[Github de bryan](https://github.com/bryanfpp)
 
 ## diego salazar guerrero 
 
