@@ -1,4 +1,4 @@
-#repositorio del integrador 
+#Repositorio del integrador 
 
 [repo](https://github.com/fcuadrosgithub/integrador-primero.git.)
 # ejercicio 2
