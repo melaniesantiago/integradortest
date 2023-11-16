@@ -1,4 +1,8 @@
-#Repositorio de integrador
-[repo](git@github.com:melaniesantiago/integradortest.git)
-# ejercicio 6
- dada una tablabade verdad de n bits generar la expresion  en booleana que genera de manera fidedigna las salidas de esta tabla 
+# Repositorio del integrador
+[repo](https://github.com/fcuadrosgithub/integrador-primero.git)
+
+# Ejercicio 5 (EL SUYO)
+
+Dado un numero binario de n bits regresar su equivalente en decimal.
+
+
