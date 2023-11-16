@@ -1,3 +1,4 @@
 #Repositorio de integrador
-[repo]()
+[repo](git@github.com:melaniesantiago/integradortest.git)
+# ejercicio 6
  dada una tablabade verdad de n bits generar la expresion  en booleana que genera de manera fidedigna las salidas de esta tabla 
