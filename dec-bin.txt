@@ -3,3 +3,4 @@
 [repo](https://github.com/fcuadrosgithub/integrador-primero.git.)
 # ejercicio 2
  dada una escuacion cuadratica regresar los valores de las raices en caso que esten en  caso de que esten sobre el conjunto de valores de las raices en caso de que esten sobre el conjunto de los numeros reales, en caso contrario indicar  que la solucion esta en el conjunro de los numero completos 
+
